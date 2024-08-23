@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mondinet.github.io/sitemap.html.gz
+Sitemap: https://mondinet.github.io/app/sitemap.html.gz
+Sitemap: https://mondinet.github.io/assets/sitemap.html.gz
+Sitemap: https://mondinet.github.io/css/sitemap.html.gz
+Sitemap: https://mondinet.github.io/includes/sitemap.html.gz
+Sitemap: https://mondinet.github.io/item/sitemap.html.gz
+Sitemap: https://mondinet.github.io/src/sitemap.html.gz
